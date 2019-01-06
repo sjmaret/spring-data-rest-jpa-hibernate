@@ -1,7 +1,7 @@
 package com.spring.jpa;
 
 import com.spring.jpa.dao.CustomerRepository;
-import com.spring.jpa.domain.Customer;
+import com.spring.jpa.model.Customer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;

@@ -1,6 +1,6 @@
 package com.spring.jpa.dao;
 
-import com.spring.jpa.domain.Customer;
+import com.spring.jpa.model.Customer;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

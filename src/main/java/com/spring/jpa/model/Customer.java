@@ -1,4 +1,4 @@
-package com.spring.jpa.domain;
+package com.spring.jpa.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
