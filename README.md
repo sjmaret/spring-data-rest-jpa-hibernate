@@ -1,5 +1,4 @@
-# RESTful API Example with Spring Data REST
-and JPA/Hibernate Many To Many Extra Columns
+# RESTful API Example with Spring Data REST and JPA/Hibernate Many To Many Extra Columns
 
 Create a new Book
 ```bash
